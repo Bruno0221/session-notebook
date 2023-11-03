@@ -1,1 +1,3 @@
 ## Notes
+
+CSS is awesome :)
